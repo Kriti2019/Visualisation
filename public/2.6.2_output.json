@@ -1,0 +1,3772 @@
+[
+    {
+        "Year": "2021",
+        "Continent": "North America",
+        "Country": "Canada",
+        "Arrival": 80437,
+        "Male": 54.1,
+        "Female": 45.9,
+        "iso_alpha": "CA",
+        "iso_num": "124"
+    },
+    {
+        "Year": "2021",
+        "Continent": "North America",
+        "Country": "United States Of America",
+        "Arrival": 429860,
+        "Male": 54.0,
+        "Female": 46.0,
+        "iso_alpha": "US",
+        "iso_num": "840"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Central and South America",
+        "Country": "Argentina",
+        "Arrival": 530,
+        "Male": 61.3,
+        "Female": 38.7,
+        "iso_alpha": "AR",
+        "iso_num": "032"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Central and South America",
+        "Country": "Brazil",
+        "Arrival": 2055,
+        "Male": 64.9,
+        "Female": 35.1,
+        "iso_alpha": "BR",
+        "iso_num": "076"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Central and South America",
+        "Country": "Mexico",
+        "Arrival": 859,
+        "Male": 56.9,
+        "Female": 43.1,
+        "iso_alpha": "MX",
+        "iso_num": "484"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Austria",
+        "Arrival": 4411,
+        "Male": 61.5,
+        "Female": 38.5,
+        "iso_alpha": "AT",
+        "iso_num": "040"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Belgium",
+        "Arrival": 7382,
+        "Male": 62.3,
+        "Female": 37.7,
+        "iso_alpha": "BE",
+        "iso_num": "056"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Denmark",
+        "Arrival": 2025,
+        "Male": 65.2,
+        "Female": 34.8,
+        "iso_alpha": "DK",
+        "iso_num": "208"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Finland",
+        "Arrival": 1329,
+        "Male": 56.3,
+        "Female": 43.7,
+        "iso_alpha": "FI",
+        "iso_num": "246"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "France",
+        "Arrival": 30374,
+        "Male": 59.5,
+        "Female": 40.5,
+        "iso_alpha": "FR",
+        "iso_num": "250"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Germany",
+        "Arrival": 33772,
+        "Male": 62.3,
+        "Female": 37.7,
+        "iso_alpha": "DE",
+        "iso_num": "276"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Greece",
+        "Arrival": 1144,
+        "Male": 80.2,
+        "Female": 19.8,
+        "iso_alpha": "GR",
+        "iso_num": "300"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Ireland",
+        "Arrival": 7600,
+        "Male": 55.7,
+        "Female": 44.3,
+        "iso_alpha": "IE",
+        "iso_num": "372"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Italy",
+        "Arrival": 13659,
+        "Male": 67.6,
+        "Female": 32.4,
+        "iso_alpha": "IT",
+        "iso_num": "380"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Netherlands",
+        "Arrival": 15631,
+        "Male": 54.2,
+        "Female": 45.8,
+        "iso_alpha": "NL",
+        "iso_num": "528"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Norway",
+        "Arrival": 2790,
+        "Male": 58.4,
+        "Female": 41.6,
+        "iso_alpha": "NO",
+        "iso_num": "578"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Portugal",
+        "Arrival": 32064,
+        "Male": 69.3,
+        "Female": 30.7,
+        "iso_alpha": "PT",
+        "iso_num": "620"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Spain",
+        "Arrival": 6982,
+        "Male": 68.0,
+        "Female": 32.0,
+        "iso_alpha": "ES",
+        "iso_num": "724"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Sweden",
+        "Arrival": 5579,
+        "Male": 60.4,
+        "Female": 39.6,
+        "iso_alpha": "SE",
+        "iso_num": "752"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "Switzerland",
+        "Arrival": 4198,
+        "Male": 58.8,
+        "Female": 41.2,
+        "iso_alpha": "CH",
+        "iso_num": "756"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Western Europe",
+        "Country": "United Kingdom",
+        "Arrival": 164143,
+        "Male": 55.7,
+        "Female": 44.3,
+        "iso_alpha": "GB",
+        "iso_num": "826"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Eastern Europe",
+        "Country": "Czech",
+        "Arrival": 983,
+        "Male": 68.0,
+        "Female": 32.0,
+        "iso_alpha": "CZ",
+        "iso_num": "203"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Eastern Europe",
+        "Country": "Hungury",
+        "Arrival": 653,
+        "Male": 58.3,
+        "Female": 41.7,
+        "iso_alpha": "HU",
+        "iso_num": "348"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Eastern Europe",
+        "Country": "Kazakhstan",
+        "Arrival": 2378,
+        "Male": 43.7,
+        "Female": 56.3,
+        "iso_alpha": "KZ",
+        "iso_num": "398"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Eastern Europe",
+        "Country": "Poland",
+        "Arrival": 2461,
+        "Male": 67.2,
+        "Female": 32.8,
+        "iso_alpha": "PL",
+        "iso_num": "616"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Eastern Europe",
+        "Country": "Russian Federation",
+        "Arrival": 17567,
+        "Male": 61.2,
+        "Female": 38.8,
+        "iso_alpha": "RU",
+        "iso_num": "643"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Eastern Europe",
+        "Country": "Ukraine",
+        "Arrival": 5197,
+        "Male": 68.9,
+        "Female": 31.1,
+        "iso_alpha": "UA",
+        "iso_num": "804"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "Egypt",
+        "Arrival": 1739,
+        "Male": 79.8,
+        "Female": 20.2,
+        "iso_alpha": "EG",
+        "iso_num": "818"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "Kenya",
+        "Arrival": 13373,
+        "Male": 54.8,
+        "Female": 45.2,
+        "iso_alpha": "KE",
+        "iso_num": "404"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "Mauritius",
+        "Arrival": 2118,
+        "Male": 50.7,
+        "Female": 49.3,
+        "iso_alpha": "MU",
+        "iso_num": "480"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "Arrival": 5516,
+        "Male": 61.7,
+        "Female": 38.3,
+        "iso_alpha": "NG",
+        "iso_num": "566"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "South Africa",
+        "Arrival": 3820,
+        "Male": 66.9,
+        "Female": 33.1,
+        "iso_alpha": "ZA",
+        "iso_num": "710"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "Sudan",
+        "Arrival": 6781,
+        "Male": 61.5,
+        "Female": 38.5,
+        "iso_alpha": "SD",
+        "iso_num": "729"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Africa",
+        "Country": "Tanzania",
+        "Arrival": 6480,
+        "Male": 54.8,
+        "Female": 45.2,
+        "iso_alpha": "TZ",
+        "iso_num": "834"
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Bahrain",
+        "Arrival": 1727,
+        "Male": 58.9,
+        "Female": 41.1,
+        "iso_alpha": "BH",
+        "iso_num": "048"
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Iraq",
+        "Arrival": 16213,
+        "Male": 68.4,
+        "Female": 31.6,
+        "iso_alpha": "IQ",
+        "iso_num": "368"
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Israel",
+        "Arrival": 4601,
+        "Male": 76.5,
+        "Female": 23.5,
+        "iso_alpha": "IL",
+        "iso_num": "376"
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Oman",
+        "Arrival": 10174,
+        "Male": 66.5,
+        "Female": 33.5,
+        "iso_alpha": "OM",
+        "iso_num": "512"
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Saudi Arabia",
+        "Arrival": 1088,
+        "Male": 70.7,
+        "Female": 29.3,
+        "iso_alpha": "SA",
+        "iso_num": "682"
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Turkey",
+        "Arrival": 3710,
+        "Male": 87.2,
+        "Female": 12.8,
+        "iso_alpha": "TR",
+        "iso_num": "792"
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "United Arab Emirates",
+        "Arrival": 3927,
+        "Male": 47.9,
+        "Female": 52.1,
+        "iso_alpha": "AE",
+        "iso_num": "784"
+    },
+    {
+        "Year": "2021",
+        "Continent": "West Asia",
+        "Country": "Yemen",
+        "Arrival": 6235,
+        "Male": 70.1,
+        "Female": 29.9,
+        "iso_alpha": "YE",
+        "iso_num": "887"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Afghanistan",
+        "Arrival": 36451,
+        "Male": 70.8,
+        "Female": 29.2,
+        "iso_alpha": "AF",
+        "iso_num": "004"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Bangladesh",
+        "Arrival": 240554,
+        "Male": 66.4,
+        "Female": 33.5,
+        "iso_alpha": "BD",
+        "iso_num": "050"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Bhutan",
+        "Arrival": 6081,
+        "Male": 54.3,
+        "Female": 45.7,
+        "iso_alpha": "BT",
+        "iso_num": "064"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Iran",
+        "Arrival": 2369,
+        "Male": 54.3,
+        "Female": 45.7,
+        "iso_alpha": "IR",
+        "iso_num": "364"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Maldives",
+        "Arrival": 26571,
+        "Male": 50.9,
+        "Female": 49.1,
+        "iso_alpha": "MV",
+        "iso_num": "462"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Nepal",
+        "Arrival": 52544,
+        "Male": 62.7,
+        "Female": 37.3,
+        "iso_alpha": "NP",
+        "iso_num": "524"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Pakistan",
+        "Arrival": 8163,
+        "Male": 90.2,
+        "Female": 9.8,
+        "iso_alpha": "PK",
+        "iso_num": "586"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South Asia",
+        "Country": "Sri Lanka",
+        "Arrival": 25989,
+        "Male": 64.3,
+        "Female": 35.7,
+        "iso_alpha": "LK",
+        "iso_num": "144"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Indonesia",
+        "Arrival": 2105,
+        "Male": 67.9,
+        "Female": 32.1,
+        "iso_alpha": "ID",
+        "iso_num": "360"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Malaysia",
+        "Arrival": 6628,
+        "Male": 62.4,
+        "Female": 37.6,
+        "iso_alpha": "MY",
+        "iso_num": "458"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Myanmar",
+        "Arrival": 3013,
+        "Male": 60.2,
+        "Female": 39.8,
+        "iso_alpha": "MM",
+        "iso_num": "104"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Phillippines",
+        "Arrival": 6927,
+        "Male": 69.8,
+        "Female": 30.2,
+        "iso_alpha": "PH",
+        "iso_num": "608"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Singapore",
+        "Arrival": 13407,
+        "Male": 54.5,
+        "Female": 45.5,
+        "iso_alpha": "SG",
+        "iso_num": "702"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Thailand",
+        "Arrival": 4668,
+        "Male": 40.6,
+        "Female": 59.4,
+        "iso_alpha": "TH",
+        "iso_num": "764"
+    },
+    {
+        "Year": "2021",
+        "Continent": "South East Asia",
+        "Country": "Vietnam",
+        "Arrival": 1104,
+        "Male": 68.0,
+        "Female": 32.0,
+        "iso_alpha": "VN",
+        "iso_num": "704"
+    },
+    {
+        "Year": "2021",
+        "Continent": "East Asia",
+        "Country": "China",
+        "Arrival": 3502,
+        "Male": 83.3,
+        "Female": 16.7,
+        "iso_alpha": "CN",
+        "iso_num": "156"
+    },
+    {
+        "Year": "2021",
+        "Continent": "East Asia",
+        "Country": "Japan",
+        "Arrival": 15358,
+        "Male": 70.5,
+        "Female": 29.5,
+        "iso_alpha": "JP",
+        "iso_num": "392"
+    },
+    {
+        "Year": "2021",
+        "Continent": "East Asia",
+        "Country": "Korea (Republic Of)",
+        "Arrival": 13330,
+        "Male": 72.3,
+        "Female": 27.7,
+        "iso_alpha": "KR",
+        "iso_num": "410"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Australasia",
+        "Country": "Australia",
+        "Arrival": 33864,
+        "Male": 58.4,
+        "Female": 41.6,
+        "iso_alpha": "AU",
+        "iso_num": "036"
+    },
+    {
+        "Year": "2021",
+        "Continent": "Australasia",
+        "Country": "New Zealand",
+        "Arrival": 4497,
+        "Male": 60.2,
+        "Female": 39.8,
+        "iso_alpha": "NZ",
+        "iso_num": "554"
+    },
+    {
+        "Year": "2020",
+        "Continent": "North America",
+        "Country": "Canada",
+        "Arrival": 122868,
+        "Male": 53.23,
+        "Female": 46.77,
+        "iso_alpha": "CA",
+        "iso_num": "124"
+    },
+    {
+        "Year": "2020",
+        "Continent": "North America",
+        "Country": "United States Of America",
+        "Arrival": 394092,
+        "Male": 55.13,
+        "Female": 44.87,
+        "iso_alpha": "US",
+        "iso_num": "840"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Central And South America",
+        "Country": "Argentina",
+        "Arrival": 4294,
+        "Male": 38.91,
+        "Female": 61.09,
+        "iso_alpha": "AR",
+        "iso_num": "032"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Central And South America",
+        "Country": "Brazil",
+        "Arrival": 8092,
+        "Male": 49.86,
+        "Female": 50.14,
+        "iso_alpha": "BR",
+        "iso_num": "076"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Central And South America",
+        "Country": "Mexico",
+        "Arrival": 4580,
+        "Male": 47.86,
+        "Female": 52.14,
+        "iso_alpha": "MX",
+        "iso_num": "484"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Austria",
+        "Arrival": 9182,
+        "Male": 55.48,
+        "Female": 44.52,
+        "iso_alpha": "AT",
+        "iso_num": "040"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Belgium",
+        "Arrival": 11022,
+        "Male": 60.38,
+        "Female": 39.62,
+        "iso_alpha": "BE",
+        "iso_num": "056"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Denmark",
+        "Arrival": 8252,
+        "Male": 53.08,
+        "Female": 46.92,
+        "iso_alpha": "DK",
+        "iso_num": "208"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Finland",
+        "Arrival": 4310,
+        "Male": 56.87,
+        "Female": 43.13,
+        "iso_alpha": "FI",
+        "iso_num": "246"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "France",
+        "Arrival": 74243,
+        "Male": 50.23,
+        "Female": 49.77,
+        "iso_alpha": "FR",
+        "iso_num": "250"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Germany",
+        "Arrival": 72558,
+        "Male": 56.68,
+        "Female": 43.32,
+        "iso_alpha": "DE",
+        "iso_num": "276"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Greece",
+        "Arrival": 2854,
+        "Male": 63.14,
+        "Female": 36.86,
+        "iso_alpha": "GR",
+        "iso_num": "300"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Ireland",
+        "Arrival": 9708,
+        "Male": 54.83,
+        "Female": 45.17,
+        "iso_alpha": "IE",
+        "iso_num": "372"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Italy",
+        "Arrival": 31186,
+        "Male": 58.57,
+        "Female": 41.43,
+        "iso_alpha": "IT",
+        "iso_num": "380"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Netherlands",
+        "Arrival": 26258,
+        "Male": 55.29,
+        "Female": 44.71,
+        "iso_alpha": "NL",
+        "iso_num": "528"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Norway",
+        "Arrival": 6224,
+        "Male": 50.96,
+        "Female": 49.04,
+        "iso_alpha": "NO",
+        "iso_num": "578"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Portugal",
+        "Arrival": 31005,
+        "Male": 66.37,
+        "Female": 33.63,
+        "iso_alpha": "PT",
+        "iso_num": "620"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Spain",
+        "Arrival": 16335,
+        "Male": 54.76,
+        "Female": 45.24,
+        "iso_alpha": "ES",
+        "iso_num": "724"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Sweden",
+        "Arrival": 11992,
+        "Male": 52.48,
+        "Female": 47.52,
+        "iso_alpha": "SE",
+        "iso_num": "752"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "Switzerland",
+        "Arrival": 12675,
+        "Male": 51.78,
+        "Female": 48.22,
+        "iso_alpha": "CH",
+        "iso_num": "756"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Western Europe",
+        "Country": "United Kingdom",
+        "Arrival": 291874,
+        "Male": 54.41,
+        "Female": 45.59,
+        "iso_alpha": "GB",
+        "iso_num": "826"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Eastern Europe",
+        "Country": "Czech",
+        "Arrival": 3607,
+        "Male": 56.47,
+        "Female": 43.53,
+        "iso_alpha": "CZ",
+        "iso_num": "203"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Eastern Europe",
+        "Country": "Hungary",
+        "Arrival": 2964,
+        "Male": 48.08,
+        "Female": 51.92,
+        "iso_alpha": "HU",
+        "iso_num": "348"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Eastern Europe",
+        "Country": "Kazakhstan",
+        "Arrival": 5918,
+        "Male": 40.99,
+        "Female": 59.01,
+        "iso_alpha": "KZ",
+        "iso_num": "398"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Eastern Europe",
+        "Country": "Poland",
+        "Arrival": 12161,
+        "Male": 47.5,
+        "Female": 52.5,
+        "iso_alpha": "PL",
+        "iso_num": "616"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Eastern Europe",
+        "Country": "Russian Federation",
+        "Arrival": 102166,
+        "Male": 43.19,
+        "Female": 56.81,
+        "iso_alpha": "RU",
+        "iso_num": "643"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Eastern Europe",
+        "Country": "Ukraine",
+        "Arrival": 10619,
+        "Male": 47.12,
+        "Female": 52.88,
+        "iso_alpha": "UA",
+        "iso_num": "804"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "Egypt",
+        "Arrival": 4886,
+        "Male": 69.34,
+        "Female": 30.66,
+        "iso_alpha": "EG",
+        "iso_num": "818"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "Kenya",
+        "Arrival": 12779,
+        "Male": 54.07,
+        "Female": 45.93,
+        "iso_alpha": "KE",
+        "iso_num": "404"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "Mauritius",
+        "Arrival": 11410,
+        "Male": 44.43,
+        "Female": 55.57,
+        "iso_alpha": "MU",
+        "iso_num": "480"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "Arrival": 3819,
+        "Male": 62.01,
+        "Female": 37.99,
+        "iso_alpha": "NG",
+        "iso_num": "566"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "South Africa",
+        "Arrival": 12561,
+        "Male": 54.0,
+        "Female": 46.0,
+        "iso_alpha": "ZA",
+        "iso_num": "710"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "Sudan",
+        "Arrival": 9114,
+        "Male": 57.79,
+        "Female": 42.21,
+        "iso_alpha": "SD",
+        "iso_num": "729"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Africa",
+        "Country": "Tanzania",
+        "Arrival": 6501,
+        "Male": 52.01,
+        "Female": 47.99,
+        "iso_alpha": "TZ",
+        "iso_num": "834"
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Bahrain",
+        "Arrival": 3429,
+        "Male": 72.56,
+        "Female": 27.44,
+        "iso_alpha": "BH",
+        "iso_num": "048"
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Iraq",
+        "Arrival": 17823,
+        "Male": 69.71,
+        "Female": 30.29,
+        "iso_alpha": "IQ",
+        "iso_num": "368"
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Israel",
+        "Arrival": 17444,
+        "Male": 56.62,
+        "Female": 43.38,
+        "iso_alpha": "IL",
+        "iso_num": "376"
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Oman",
+        "Arrival": 15430,
+        "Male": 62.51,
+        "Female": 37.49,
+        "iso_alpha": "OM",
+        "iso_num": "512"
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Saudi Arabia",
+        "Arrival": 10423,
+        "Male": 76.1,
+        "Female": 23.9,
+        "iso_alpha": "SA",
+        "iso_num": "682"
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Turkey",
+        "Arrival": 10853,
+        "Male": 62.63,
+        "Female": 37.37,
+        "iso_alpha": "TR",
+        "iso_num": "792"
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "United Arab Emirates",
+        "Arrival": 7387,
+        "Male": 51.17,
+        "Female": 48.83,
+        "iso_alpha": "AE",
+        "iso_num": "784"
+    },
+    {
+        "Year": "2020",
+        "Continent": "West Asia",
+        "Country": "Yemen",
+        "Arrival": 5882,
+        "Male": 70.45,
+        "Female": 29.55,
+        "iso_alpha": "YE",
+        "iso_num": "887"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Afghanistan",
+        "Arrival": 47561,
+        "Male": 65.94,
+        "Female": 34.0,
+        "iso_alpha": "AF",
+        "iso_num": "004"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Bangladesh",
+        "Arrival": 549273,
+        "Male": 69.58,
+        "Female": 30.4,
+        "iso_alpha": "BD",
+        "iso_num": "050"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Bhutan",
+        "Arrival": 7901,
+        "Male": 51.79,
+        "Female": 48.21,
+        "iso_alpha": "BT",
+        "iso_num": "064"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Iran",
+        "Arrival": 7090,
+        "Male": 55.23,
+        "Female": 44.77,
+        "iso_alpha": "IR",
+        "iso_num": "364"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Maldives",
+        "Arrival": 14536,
+        "Male": 53.8,
+        "Female": 46.14,
+        "iso_alpha": "MV",
+        "iso_num": "462"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Nepal",
+        "Arrival": 40822,
+        "Male": 64.3,
+        "Female": 35.7,
+        "iso_alpha": "NP",
+        "iso_num": "524"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Pakistan",
+        "Arrival": 14232,
+        "Male": 72.11,
+        "Female": 27.89,
+        "iso_alpha": "PK",
+        "iso_num": "586"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South Asia",
+        "Country": "Sri Lanka",
+        "Arrival": 68646,
+        "Male": 57.0,
+        "Female": 43.0,
+        "iso_alpha": "LK",
+        "iso_num": "144"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Indonesia",
+        "Arrival": 11795,
+        "Male": 57.28,
+        "Female": 42.72,
+        "iso_alpha": "ID",
+        "iso_num": "360"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Malaysia",
+        "Arrival": 69897,
+        "Male": 53.95,
+        "Female": 46.05,
+        "iso_alpha": "MY",
+        "iso_num": "458"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Myanmar",
+        "Arrival": 35291,
+        "Male": 40.14,
+        "Female": 59.86,
+        "iso_alpha": "MM",
+        "iso_num": "104"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Philippines",
+        "Arrival": 16052,
+        "Male": 59.72,
+        "Female": 40.28,
+        "iso_alpha": "PH",
+        "iso_num": "608"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Singapore",
+        "Arrival": 33747,
+        "Male": 58.66,
+        "Female": 41.34,
+        "iso_alpha": "SG",
+        "iso_num": "702"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Thailand",
+        "Arrival": 52626,
+        "Male": 41.92,
+        "Female": 58.08,
+        "iso_alpha": "TH",
+        "iso_num": "764"
+    },
+    {
+        "Year": "2020",
+        "Continent": "South East Asia",
+        "Country": "Vietnam",
+        "Arrival": 8828,
+        "Male": 44.87,
+        "Female": 55.13,
+        "iso_alpha": "VN",
+        "iso_num": "704"
+    },
+    {
+        "Year": "2020",
+        "Continent": "East Asia",
+        "Country": "China",
+        "Arrival": 39586,
+        "Male": 55.4,
+        "Female": 44.6,
+        "iso_alpha": "CN",
+        "iso_num": "156"
+    },
+    {
+        "Year": "2020",
+        "Continent": "East Asia",
+        "Country": "Japan",
+        "Arrival": 48191,
+        "Male": 68.3,
+        "Female": 31.7,
+        "iso_alpha": "JP",
+        "iso_num": "392"
+    },
+    {
+        "Year": "2020",
+        "Continent": "East Asia",
+        "Country": "Korea(Republic Of)",
+        "Arrival": 32302,
+        "Male": 61.48,
+        "Female": 38.52,
+        "iso_alpha": "KR",
+        "iso_num": "410"
+    },
+    {
+        "Year": "2020",
+        "Continent": "East Asia",
+        "Country": "Republic Of China Taiwan",
+        "Arrival": 8969,
+        "Male": 47.47,
+        "Female": 52.53,
+        "iso_alpha": "TW",
+        "iso_num": "158"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Australasia",
+        "Country": "Australia",
+        "Arrival": 86758,
+        "Male": 56.37,
+        "Female": 43.63,
+        "iso_alpha": "AU",
+        "iso_num": "036"
+    },
+    {
+        "Year": "2020",
+        "Continent": "Australasia",
+        "Country": "New Zealand",
+        "Arrival": 16653,
+        "Male": 54.9,
+        "Female": 45.1,
+        "iso_alpha": "NZ",
+        "iso_num": "554"
+    },
+    {
+        "Year": "2019",
+        "Continent": "North America",
+        "Country": "CANADA",
+        "Arrival": 351859,
+        "Male": 53.1,
+        "Female": 46.9,
+        "iso_alpha": "CA",
+        "iso_num": "124"
+    },
+    {
+        "Year": "2019",
+        "Continent": "North America",
+        "Country": "UNITED STATES",
+        "Arrival": 1512032,
+        "Male": 54.7,
+        "Female": 45.3,
+        "iso_alpha": "US",
+        "iso_num": "840"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Central & South America",
+        "Country": "ARGENTINA",
+        "Arrival": 12844,
+        "Male": 44.8,
+        "Female": 55.2,
+        "iso_alpha": "AR",
+        "iso_num": "032"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Central & South America",
+        "Country": "BRAZIL",
+        "Arrival": 25422,
+        "Male": 53.9,
+        "Female": 46.1,
+        "iso_alpha": "BR",
+        "iso_num": "076"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Central & South America",
+        "Country": "MEXICO",
+        "Arrival": 20766,
+        "Male": 48.7,
+        "Female": 51.3,
+        "iso_alpha": "MX",
+        "iso_num": "484"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "AUSTRIA",
+        "Arrival": 32332,
+        "Male": 57.1,
+        "Female": 42.9,
+        "iso_alpha": "AT",
+        "iso_num": "040"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "BELGIUM",
+        "Arrival": 39263,
+        "Male": 60.8,
+        "Female": 39.2,
+        "iso_alpha": "BE",
+        "iso_num": "056"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "DENMARK",
+        "Arrival": 26492,
+        "Male": 57.9,
+        "Female": 42.1,
+        "iso_alpha": "DK",
+        "iso_num": "208"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "FINLAND",
+        "Arrival": 18945,
+        "Male": 54.7,
+        "Female": 45.3,
+        "iso_alpha": "FI",
+        "iso_num": "246"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "FRANCE",
+        "Arrival": 247238,
+        "Male": 53.5,
+        "Female": 46.5,
+        "iso_alpha": "FR",
+        "iso_num": "250"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "GERMANY",
+        "Arrival": 264973,
+        "Male": 58.4,
+        "Female": 41.6,
+        "iso_alpha": "DE",
+        "iso_num": "276"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "GREECE",
+        "Arrival": 10317,
+        "Male": 60.0,
+        "Female": 40.0,
+        "iso_alpha": "GR",
+        "iso_num": "300"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "IRELAND",
+        "Arrival": 41183,
+        "Male": 54.4,
+        "Female": 45.6,
+        "iso_alpha": "IE",
+        "iso_num": "372"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "ITALY",
+        "Arrival": 128572,
+        "Male": 60.6,
+        "Female": 39.4,
+        "iso_alpha": "IT",
+        "iso_num": "380"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "NETHERLANDS",
+        "Arrival": 80313,
+        "Male": 60.2,
+        "Female": 39.8,
+        "iso_alpha": "NL",
+        "iso_num": "528"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "NORWAY",
+        "Arrival": 21898,
+        "Male": 53.6,
+        "Female": 46.4,
+        "iso_alpha": "NO",
+        "iso_num": "578"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "PORTUGAL",
+        "Arrival": 74743,
+        "Male": 63.9,
+        "Female": 36.1,
+        "iso_alpha": "PT",
+        "iso_num": "620"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "SPAIN",
+        "Arrival": 83322,
+        "Male": 52.2,
+        "Female": 47.8,
+        "iso_alpha": "ES",
+        "iso_num": "724"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "SWEDEN",
+        "Arrival": 42318,
+        "Male": 55.8,
+        "Female": 44.2,
+        "iso_alpha": "SE",
+        "iso_num": "752"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "SWITZERLAND",
+        "Arrival": 46826,
+        "Male": 53.7,
+        "Female": 46.3,
+        "iso_alpha": "CH",
+        "iso_num": "756"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Western Europe",
+        "Country": "UNITED KINGDOM",
+        "Arrival": 1000292,
+        "Male": 55.0,
+        "Female": 45.0,
+        "iso_alpha": "GB",
+        "iso_num": "826"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Eastern Europe",
+        "Country": "CZECH REPUBLIC",
+        "Arrival": 13290,
+        "Male": 58.4,
+        "Female": 41.6,
+        "iso_alpha": "CZ",
+        "iso_num": "203"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Eastern Europe",
+        "Country": "HUNGARY",
+        "Arrival": 9788,
+        "Male": 51.1,
+        "Female": 48.9,
+        "iso_alpha": "HU",
+        "iso_num": "348"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Eastern Europe",
+        "Country": "KAZAKHSTAN",
+        "Arrival": 15709,
+        "Male": 38.5,
+        "Female": 61.5,
+        "iso_alpha": "KZ",
+        "iso_num": "398"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Eastern Europe",
+        "Country": "POLAND",
+        "Arrival": 33687,
+        "Male": 49.6,
+        "Female": 50.4,
+        "iso_alpha": "PL",
+        "iso_num": "616"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Eastern Europe",
+        "Country": "RUSSIAN FEDERATION",
+        "Arrival": 251319,
+        "Male": 43.2,
+        "Female": 56.8,
+        "iso_alpha": "RU",
+        "iso_num": "643"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Eastern Europe",
+        "Country": "UKRAINE",
+        "Arrival": 29468,
+        "Male": 44.2,
+        "Female": 55.8,
+        "iso_alpha": "UA",
+        "iso_num": "804"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "EGYPT",
+        "Arrival": 21538,
+        "Male": 68.8,
+        "Female": 31.2,
+        "iso_alpha": "EG",
+        "iso_num": "818"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "KENYA",
+        "Arrival": 48639,
+        "Male": 53.8,
+        "Female": 46.2,
+        "iso_alpha": "KE",
+        "iso_num": "404"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "MAURITIUS",
+        "Arrival": 46814,
+        "Male": 44.3,
+        "Female": 55.7,
+        "iso_alpha": "MU",
+        "iso_num": "480"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "NIGERIA",
+        "Arrival": 14033,
+        "Male": 62.5,
+        "Female": 37.5,
+        "iso_alpha": "NG",
+        "iso_num": "566"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "SOUTH AFRICA",
+        "Arrival": 57274,
+        "Male": 51.9,
+        "Female": 48.1,
+        "iso_alpha": "ZA",
+        "iso_num": "710"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "SUDAN",
+        "Arrival": 34003,
+        "Male": 58.2,
+        "Female": 41.8,
+        "iso_alpha": "SD",
+        "iso_num": "729"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Africa",
+        "Country": "UNITED REPUBLIC OF TANZANIA",
+        "Arrival": 23774,
+        "Male": 52.9,
+        "Female": 47.1,
+        "iso_alpha": "TZ",
+        "iso_num": "834"
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "BAHRAIN",
+        "Arrival": 15128,
+        "Male": 71.0,
+        "Female": 29.0,
+        "iso_alpha": "BH",
+        "iso_num": "048"
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "IRAQ",
+        "Arrival": 61907,
+        "Male": 69.0,
+        "Female": 31.0,
+        "iso_alpha": "IQ",
+        "iso_num": "368"
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "ISRAEL",
+        "Arrival": 73137,
+        "Male": 58.7,
+        "Female": 41.3,
+        "iso_alpha": "IL",
+        "iso_num": "376"
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "OMAN",
+        "Arrival": 74564,
+        "Male": 62.3,
+        "Female": 37.7,
+        "iso_alpha": "OM",
+        "iso_num": "512"
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "SAUDI ARABIA",
+        "Arrival": 48526,
+        "Male": 79.4,
+        "Female": 20.6,
+        "iso_alpha": "SA",
+        "iso_num": "682"
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "TURKEY",
+        "Arrival": 35113,
+        "Male": 61.0,
+        "Female": 39.0,
+        "iso_alpha": "TR",
+        "iso_num": "792"
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "UNITED ARAB EMIRATES",
+        "Arrival": 55413,
+        "Male": 47.5,
+        "Female": 52.5,
+        "iso_alpha": "AE",
+        "iso_num": "784"
+    },
+    {
+        "Year": "2019",
+        "Continent": "West Asia",
+        "Country": "YEMEN",
+        "Arrival": 26065,
+        "Male": 70.2,
+        "Female": 29.8,
+        "iso_alpha": "YE",
+        "iso_num": "887"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "AFGHANISTAN",
+        "Arrival": 124120,
+        "Male": 67.7,
+        "Female": 32.3,
+        "iso_alpha": "AF",
+        "iso_num": "004"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "BANGLADESH",
+        "Arrival": 2577727,
+        "Male": 69.5,
+        "Female": 30.4,
+        "iso_alpha": "BD",
+        "iso_num": "050"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "BHUTAN",
+        "Arrival": 28178,
+        "Male": 55.3,
+        "Female": 44.7,
+        "iso_alpha": "BT",
+        "iso_num": "064"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "IRAN",
+        "Arrival": 33288,
+        "Male": 55.3,
+        "Female": 44.7,
+        "iso_alpha": "IR",
+        "iso_num": "364"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "MALDIVES",
+        "Arrival": 78587,
+        "Male": 51.8,
+        "Female": 48.2,
+        "iso_alpha": "MV",
+        "iso_num": "462"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "NEPAL",
+        "Arrival": 164040,
+        "Male": 65.4,
+        "Female": 34.6,
+        "iso_alpha": "NP",
+        "iso_num": "524"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "PAKISTAN",
+        "Arrival": 39018,
+        "Male": 68.1,
+        "Female": 31.9,
+        "iso_alpha": "PK",
+        "iso_num": "586"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South Asia",
+        "Country": "SRI LANKA",
+        "Arrival": 330861,
+        "Male": 52.6,
+        "Female": 47.4,
+        "iso_alpha": "LK",
+        "iso_num": "144"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "INDONESIA",
+        "Arrival": 50177,
+        "Male": 54.0,
+        "Female": 46.0,
+        "iso_alpha": "ID",
+        "iso_num": "360"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "MALAYSIA",
+        "Arrival": 334579,
+        "Male": 51.2,
+        "Female": 48.8,
+        "iso_alpha": "MY",
+        "iso_num": "458"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "MYANMAR (BURMA)",
+        "Arrival": 86842,
+        "Male": 42.3,
+        "Female": 57.7,
+        "iso_alpha": "MM",
+        "iso_num": "104"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "PHILIPPINES",
+        "Arrival": 56393,
+        "Male": 45.0,
+        "Female": 55.0,
+        "iso_alpha": "PH",
+        "iso_num": "608"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "SINGAPORE",
+        "Arrival": 190089,
+        "Male": 57.0,
+        "Female": 43.0,
+        "iso_alpha": "SG",
+        "iso_num": "702"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "THAILAND",
+        "Arrival": 169956,
+        "Male": 40.4,
+        "Female": 59.6,
+        "iso_alpha": "TH",
+        "iso_num": "764"
+    },
+    {
+        "Year": "2019",
+        "Continent": "South East Asia",
+        "Country": "VIETNAM",
+        "Arrival": 33636,
+        "Male": 41.8,
+        "Female": 58.2,
+        "iso_alpha": "VN",
+        "iso_num": "704"
+    },
+    {
+        "Year": "2019",
+        "Continent": "East Asia",
+        "Country": "CHINA",
+        "Arrival": 339442,
+        "Male": 63.3,
+        "Female": 36.7,
+        "iso_alpha": "CN",
+        "iso_num": "156"
+    },
+    {
+        "Year": "2019",
+        "Continent": "East Asia",
+        "Country": "JAPAN",
+        "Arrival": 238903,
+        "Male": 72.4,
+        "Female": 27.6,
+        "iso_alpha": "JP",
+        "iso_num": "392"
+    },
+    {
+        "Year": "2019",
+        "Continent": "East Asia",
+        "Country": "REPUBLIC OF KOREA",
+        "Arrival": 149445,
+        "Male": 64.6,
+        "Female": 35.4,
+        "iso_alpha": "KR",
+        "iso_num": "410"
+    },
+    {
+        "Year": "2019",
+        "Continent": "East Asia",
+        "Country": "TAIWAN",
+        "Arrival": 48195,
+        "Male": 51.6,
+        "Female": 48.4,
+        "iso_alpha": "TW",
+        "iso_num": "158"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Australasia",
+        "Country": "AUSTRALIA",
+        "Arrival": 367241,
+        "Male": 56.1,
+        "Female": 43.9,
+        "iso_alpha": "AU",
+        "iso_num": "036"
+    },
+    {
+        "Year": "2019",
+        "Continent": "Australasia",
+        "Country": "NEW ZEALAND",
+        "Arrival": 65551,
+        "Male": 54.5,
+        "Female": 45.5,
+        "iso_alpha": "NZ",
+        "iso_num": "554"
+    },
+    {
+        "Year": "2018",
+        "Continent": "North America",
+        "Country": "CANADA",
+        "Arrival": 351040,
+        "Male": 53.1,
+        "Female": 46.9,
+        "iso_alpha": "CA",
+        "iso_num": "124"
+    },
+    {
+        "Year": "2018",
+        "Continent": "North America",
+        "Country": "UNITED STATES",
+        "Arrival": 1456678,
+        "Male": 54.8,
+        "Female": 45.2,
+        "iso_alpha": "US",
+        "iso_num": "840"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Central & South America",
+        "Country": "ARGENTINA",
+        "Arrival": 16345,
+        "Male": 42.6,
+        "Female": 57.4,
+        "iso_alpha": "AR",
+        "iso_num": "032"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Central & South America",
+        "Country": "BRAZIL",
+        "Arrival": 26579,
+        "Male": 51.7,
+        "Female": 48.3,
+        "iso_alpha": "BR",
+        "iso_num": "076"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Central & South America",
+        "Country": "MEXICO",
+        "Arrival": 19909,
+        "Male": 47.8,
+        "Female": 52.2,
+        "iso_alpha": "MX",
+        "iso_num": "484"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "AUSTRIA",
+        "Arrival": 33200,
+        "Male": 58.2,
+        "Female": 41.8,
+        "iso_alpha": "AT",
+        "iso_num": "040"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "BELGIUM",
+        "Arrival": 44086,
+        "Male": 59.6,
+        "Female": 40.4,
+        "iso_alpha": "BE",
+        "iso_num": "056"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "DENMARK",
+        "Arrival": 28195,
+        "Male": 56.8,
+        "Female": 43.2,
+        "iso_alpha": "DK",
+        "iso_num": "208"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "FINLAND",
+        "Arrival": 21239,
+        "Male": 52.7,
+        "Female": 47.3,
+        "iso_alpha": "FI",
+        "iso_num": "246"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "FRANCE",
+        "Arrival": 261653,
+        "Male": 53.6,
+        "Female": 46.4,
+        "iso_alpha": "FR",
+        "iso_num": "250"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "GERMANY",
+        "Arrival": 274087,
+        "Male": 58.9,
+        "Female": 41.1,
+        "iso_alpha": "DE",
+        "iso_num": "276"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "GREECE",
+        "Arrival": 10656,
+        "Male": 58.5,
+        "Female": 41.5,
+        "iso_alpha": "GR",
+        "iso_num": "300"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "IRELAND",
+        "Arrival": 39276,
+        "Male": 53.9,
+        "Female": 46.1,
+        "iso_alpha": "IE",
+        "iso_num": "372"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "ITALY",
+        "Arrival": 126931,
+        "Male": 60.9,
+        "Female": 39.1,
+        "iso_alpha": "IT",
+        "iso_num": "380"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "NETHERLANDS",
+        "Arrival": 81615,
+        "Male": 59.9,
+        "Female": 40.1,
+        "iso_alpha": "NL",
+        "iso_num": "528"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "NORWAY",
+        "Arrival": 22631,
+        "Male": 53.4,
+        "Female": 46.6,
+        "iso_alpha": "NO",
+        "iso_num": "578"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "PORTUGAL",
+        "Arrival": 74492,
+        "Male": 64.2,
+        "Female": 35.8,
+        "iso_alpha": "PT",
+        "iso_num": "620"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "SPAIN",
+        "Arrival": 84356,
+        "Male": 52.2,
+        "Female": 47.8,
+        "iso_alpha": "ES",
+        "iso_num": "724"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "SWEDEN",
+        "Arrival": 46743,
+        "Male": 55.1,
+        "Female": 44.9,
+        "iso_alpha": "SE",
+        "iso_num": "752"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "SWITZERLAND",
+        "Arrival": 49322,
+        "Male": 52.8,
+        "Female": 47.2,
+        "iso_alpha": "CH",
+        "iso_num": "756"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Western Europe",
+        "Country": "UNITED KINGDOM",
+        "Arrival": 1029757,
+        "Male": 55.0,
+        "Female": 45.0,
+        "iso_alpha": "GB",
+        "iso_num": "826"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Eastern Europe",
+        "Country": "CZECH REPUBLIC",
+        "Arrival": 13413,
+        "Male": 59.5,
+        "Female": 40.5,
+        "iso_alpha": "CZ",
+        "iso_num": "203"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Eastern Europe",
+        "Country": "HUNGARY",
+        "Arrival": 9201,
+        "Male": 51.0,
+        "Female": 49.0,
+        "iso_alpha": "HU",
+        "iso_num": "348"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Eastern Europe",
+        "Country": "KAZAKHISTAN",
+        "Arrival": 13314,
+        "Male": 39.8,
+        "Female": 60.2,
+        "iso_alpha": "KZ",
+        "iso_num": "398"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Eastern Europe",
+        "Country": "POLAND",
+        "Arrival": 31555,
+        "Male": 50.2,
+        "Female": 49.8,
+        "iso_alpha": "PL",
+        "iso_num": "616"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Eastern Europe",
+        "Country": "RUSSIAN FEDERATION",
+        "Arrival": 262309,
+        "Male": 43.6,
+        "Female": 56.4,
+        "iso_alpha": "RU",
+        "iso_num": "643"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Eastern Europe",
+        "Country": "UKRAINE",
+        "Arrival": 26260,
+        "Male": 45.3,
+        "Female": 54.7,
+        "iso_alpha": "UA",
+        "iso_num": "804"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "EGYPT",
+        "Arrival": 20486,
+        "Male": 67.7,
+        "Female": 32.3,
+        "iso_alpha": "EG",
+        "iso_num": "818"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "KENYA",
+        "Arrival": 48845,
+        "Male": 55.0,
+        "Female": 45.0,
+        "iso_alpha": "KE",
+        "iso_num": "404"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "MAURITIUS",
+        "Arrival": 42096,
+        "Male": 44.2,
+        "Female": 55.8,
+        "iso_alpha": "MU",
+        "iso_num": "480"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "NIGERIA",
+        "Arrival": 12067,
+        "Male": 61.6,
+        "Female": 38.4,
+        "iso_alpha": "NG",
+        "iso_num": "566"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "SOUTH AFRICA",
+        "Arrival": 58613,
+        "Male": 52.2,
+        "Female": 47.8,
+        "iso_alpha": "ZA",
+        "iso_num": "710"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "SUDAN",
+        "Arrival": 34712,
+        "Male": 52.8,
+        "Female": 47.2,
+        "iso_alpha": "SD",
+        "iso_num": "729"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Africa",
+        "Country": "UNITED REPUBLIC OF TANZANIA",
+        "Arrival": 23443,
+        "Male": 53.2,
+        "Female": 46.8,
+        "iso_alpha": "TZ",
+        "iso_num": "834"
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "BAHRAIN",
+        "Arrival": 13915,
+        "Male": 66.5,
+        "Female": 33.5,
+        "iso_alpha": "BH",
+        "iso_num": "048"
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "IRAQ",
+        "Arrival": 68462,
+        "Male": 69.6,
+        "Female": 30.4,
+        "iso_alpha": "IQ",
+        "iso_num": "368"
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "ISRAEL",
+        "Arrival": 67366,
+        "Male": 59.6,
+        "Female": 40.4,
+        "iso_alpha": "IL",
+        "iso_num": "376"
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "OMAN",
+        "Arrival": 95160,
+        "Male": 61.6,
+        "Female": 38.4,
+        "iso_alpha": "OM",
+        "iso_num": "512"
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "SAUDI ARABIA",
+        "Arrival": 47546,
+        "Male": 78.5,
+        "Female": 21.5,
+        "iso_alpha": "SA",
+        "iso_num": "682"
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "TURKEY",
+        "Arrival": 33825,
+        "Male": 59.5,
+        "Female": 40.5,
+        "iso_alpha": "TR",
+        "iso_num": "792"
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "UNITED ARAB EMIRATES",
+        "Arrival": 59971,
+        "Male": 48.3,
+        "Female": 51.7,
+        "iso_alpha": "AE",
+        "iso_num": "784"
+    },
+    {
+        "Year": "2018",
+        "Continent": "West Asia",
+        "Country": "YEMEN",
+        "Arrival": 21674,
+        "Male": 70.9,
+        "Female": 29.1,
+        "iso_alpha": "YE",
+        "iso_num": "887"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "AFGHANISTAN",
+        "Arrival": 153905,
+        "Male": 68.9,
+        "Female": 31.1,
+        "iso_alpha": "AF",
+        "iso_num": "004"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "BANGLADESH",
+        "Arrival": 2256675,
+        "Male": 69.7,
+        "Female": 30.3,
+        "iso_alpha": "BD",
+        "iso_num": "050"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "BHUTAN",
+        "Arrival": 26470,
+        "Male": 56.6,
+        "Female": 43.4,
+        "iso_alpha": "BT",
+        "iso_num": "064"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "IRAN",
+        "Arrival": 35596,
+        "Male": 52.9,
+        "Female": 47.1,
+        "iso_alpha": "IR",
+        "iso_num": "364"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "MALDIVES",
+        "Arrival": 62337,
+        "Male": 51.9,
+        "Female": 48.1,
+        "iso_alpha": "MV",
+        "iso_num": "462"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "NEPAL",
+        "Arrival": 174096,
+        "Male": 66.5,
+        "Female": 33.5,
+        "iso_alpha": "NP",
+        "iso_num": "524"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "PAKISTAN",
+        "Arrival": 41659,
+        "Male": 54.9,
+        "Female": 45.1,
+        "iso_alpha": "PK",
+        "iso_num": "586"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South Asia",
+        "Country": "SRI LANKA",
+        "Arrival": 353684,
+        "Male": 52.5,
+        "Female": 47.5,
+        "iso_alpha": "LK",
+        "iso_num": "144"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "INDONESIA",
+        "Arrival": 46867,
+        "Male": 53.0,
+        "Female": 47.0,
+        "iso_alpha": "ID",
+        "iso_num": "360"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "MALAYSIA",
+        "Arrival": 319172,
+        "Male": 50.5,
+        "Female": 49.5,
+        "iso_alpha": "MY",
+        "iso_num": "458"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "MYANMAR (BURMA)",
+        "Arrival": 75773,
+        "Male": 42.5,
+        "Female": 57.5,
+        "iso_alpha": "MM",
+        "iso_num": "104"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "PHILIPPINES",
+        "Arrival": 53473,
+        "Male": 45.2,
+        "Female": 54.8,
+        "iso_alpha": "PH",
+        "iso_num": "608"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "SINGAPORE",
+        "Arrival": 183581,
+        "Male": 57.3,
+        "Female": 42.7,
+        "iso_alpha": "SG",
+        "iso_num": "702"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "THAILAND",
+        "Arrival": 166293,
+        "Male": 40.2,
+        "Female": 59.8,
+        "iso_alpha": "TH",
+        "iso_num": "764"
+    },
+    {
+        "Year": "2018",
+        "Continent": "South East Asia",
+        "Country": "VIETNAM",
+        "Arrival": 31427,
+        "Male": 42.4,
+        "Female": 57.6,
+        "iso_alpha": "VN",
+        "iso_num": "704"
+    },
+    {
+        "Year": "2018",
+        "Continent": "East Asia",
+        "Country": "CHINA",
+        "Arrival": 281768,
+        "Male": 63.1,
+        "Female": 36.9,
+        "iso_alpha": "CN",
+        "iso_num": "156"
+    },
+    {
+        "Year": "2018",
+        "Continent": "East Asia",
+        "Country": "JAPAN",
+        "Arrival": 236236,
+        "Male": 73.2,
+        "Female": 26.8,
+        "iso_alpha": "JP",
+        "iso_num": "392"
+    },
+    {
+        "Year": "2018",
+        "Continent": "East Asia",
+        "Country": "REPUBLIC OF KOREA",
+        "Arrival": 150536,
+        "Male": 62.7,
+        "Female": 37.3,
+        "iso_alpha": "KR",
+        "iso_num": "410"
+    },
+    {
+        "Year": "2018",
+        "Continent": "East Asia",
+        "Country": "TAIWAN",
+        "Arrival": 49457,
+        "Male": 51.3,
+        "Female": 48.7,
+        "iso_alpha": "TW",
+        "iso_num": "158"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Australasia",
+        "Country": "AUSTRALIA",
+        "Arrival": 346486,
+        "Male": 56.5,
+        "Female": 43.5,
+        "iso_alpha": "AU",
+        "iso_num": "036"
+    },
+    {
+        "Year": "2018",
+        "Continent": "Australasia",
+        "Country": "NEW ZEALAND",
+        "Arrival": 60664,
+        "Male": 54.6,
+        "Female": 45.4,
+        "iso_alpha": "NZ",
+        "iso_num": "554"
+    },
+    {
+        "Year": "2017",
+        "Continent": "NORTH AMERICA",
+        "Country": "CANADA",
+        "Arrival": 335439,
+        "Male": 53.0,
+        "Female": 47.0,
+        "iso_alpha": "CA",
+        "iso_num": "124"
+    },
+    {
+        "Year": "2017",
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES",
+        "Arrival": 1376919,
+        "Male": 54.8,
+        "Female": 45.2,
+        "iso_alpha": "US",
+        "iso_num": "840"
+    },
+    {
+        "Year": "2017",
+        "Continent": "CENTRAL & SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Arrival": 14875,
+        "Male": 43.2,
+        "Female": 56.8,
+        "iso_alpha": "AR",
+        "iso_num": "032"
+    },
+    {
+        "Year": "2017",
+        "Continent": "CENTRAL & SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Arrival": 24453,
+        "Male": 52.9,
+        "Female": 47.1,
+        "iso_alpha": "BR",
+        "iso_num": "076"
+    },
+    {
+        "Year": "2017",
+        "Continent": "CENTRAL & SOUTH AMERICA",
+        "Country": "MEXICO",
+        "Arrival": 18114,
+        "Male": 48.8,
+        "Female": 51.2,
+        "iso_alpha": "MX",
+        "iso_num": "484"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "AUSTRIA",
+        "Arrival": 31832,
+        "Male": 58.1,
+        "Female": 41.9,
+        "iso_alpha": "AT",
+        "iso_num": "040"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "BELGIUM",
+        "Arrival": 41902,
+        "Male": 60.5,
+        "Female": 39.5,
+        "iso_alpha": "BE",
+        "iso_num": "056"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "DENMARK",
+        "Arrival": 26761,
+        "Male": 58.8,
+        "Female": 41.2,
+        "iso_alpha": "DK",
+        "iso_num": "208"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "FINLAND",
+        "Arrival": 20384,
+        "Male": 53.6,
+        "Female": 46.4,
+        "iso_alpha": "FI",
+        "iso_num": "246"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "FRANCE",
+        "Arrival": 249620,
+        "Male": 54.0,
+        "Female": 46.0,
+        "iso_alpha": "FR",
+        "iso_num": "250"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "GERMANY",
+        "Arrival": 269380,
+        "Male": 59.5,
+        "Female": 40.5,
+        "iso_alpha": "DE",
+        "iso_num": "276"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "GREECE",
+        "Arrival": 10286,
+        "Male": 59.3,
+        "Female": 40.7,
+        "iso_alpha": "GR",
+        "iso_num": "300"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "IRELAND",
+        "Arrival": 37993,
+        "Male": 53.9,
+        "Female": 46.1,
+        "iso_alpha": "IE",
+        "iso_num": "372"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "ITALY",
+        "Arrival": 111915,
+        "Male": 62.2,
+        "Female": 37.8,
+        "iso_alpha": "IT",
+        "iso_num": "380"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "NETHERLANDS",
+        "Arrival": 76652,
+        "Male": 60.7,
+        "Female": 39.3,
+        "iso_alpha": "NL",
+        "iso_num": "528"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "NORWAY",
+        "Arrival": 20882,
+        "Male": 54.3,
+        "Female": 45.7,
+        "iso_alpha": "NO",
+        "iso_num": "578"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "PORTUGAL",
+        "Arrival": 66378,
+        "Male": 65.3,
+        "Female": 34.7,
+        "iso_alpha": "PT",
+        "iso_num": "620"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "SPAIN",
+        "Arrival": 81442,
+        "Male": 52.7,
+        "Female": 47.3,
+        "iso_alpha": "ES",
+        "iso_num": "724"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "SWEDEN",
+        "Arrival": 45851,
+        "Male": 55.5,
+        "Female": 44.5,
+        "iso_alpha": "SE",
+        "iso_num": "752"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "SWITZERLAND",
+        "Arrival": 49607,
+        "Male": 53.8,
+        "Female": 46.2,
+        "iso_alpha": "CH",
+        "iso_num": "756"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WESTERN EUROPE",
+        "Country": "UNITED KINGDOM",
+        "Arrival": 986296,
+        "Male": 55.3,
+        "Female": 44.7,
+        "iso_alpha": "GB",
+        "iso_num": "826"
+    },
+    {
+        "Year": "2017",
+        "Continent": "EASTERN EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Arrival": 11852,
+        "Male": 59.9,
+        "Female": 40.1,
+        "iso_alpha": "CZ",
+        "iso_num": "203"
+    },
+    {
+        "Year": "2017",
+        "Continent": "EASTERN EUROPE",
+        "Country": "HUNGARY",
+        "Arrival": 9241,
+        "Male": 50.4,
+        "Female": 49.6,
+        "iso_alpha": "HU",
+        "iso_num": "348"
+    },
+    {
+        "Year": "2017",
+        "Continent": "EASTERN EUROPE",
+        "Country": "KAZAKHISTAN",
+        "Arrival": 15421,
+        "Male": 39.2,
+        "Female": 60.8,
+        "iso_alpha": "KZ",
+        "iso_num": "398"
+    },
+    {
+        "Year": "2017",
+        "Continent": "EASTERN EUROPE",
+        "Country": "POLAND",
+        "Arrival": 28674,
+        "Male": 50.2,
+        "Female": 49.8,
+        "iso_alpha": "PL",
+        "iso_num": "616"
+    },
+    {
+        "Year": "2017",
+        "Continent": "EASTERN EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Arrival": 278904,
+        "Male": 43.0,
+        "Female": 57.0,
+        "iso_alpha": "RU",
+        "iso_num": "643"
+    },
+    {
+        "Year": "2017",
+        "Continent": "EASTERN EUROPE",
+        "Country": "UKRAINE",
+        "Arrival": 25988,
+        "Male": 47.1,
+        "Female": 52.9,
+        "iso_alpha": "UA",
+        "iso_num": "804"
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "EGYPT",
+        "Arrival": 20528,
+        "Male": 68.8,
+        "Female": 31.2,
+        "iso_alpha": "EG",
+        "iso_num": "818"
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "KENYA",
+        "Arrival": 46011,
+        "Male": 55.5,
+        "Female": 44.5,
+        "iso_alpha": "KE",
+        "iso_num": "404"
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Arrival": 37706,
+        "Male": 44.8,
+        "Female": 55.2,
+        "iso_alpha": "MU",
+        "iso_num": "480"
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "NIGERIA",
+        "Arrival": 12651,
+        "Male": 62.1,
+        "Female": 37.9,
+        "iso_alpha": "NG",
+        "iso_num": "566"
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "SOUTH AFRICA",
+        "Arrival": 57060,
+        "Male": 52.2,
+        "Female": 47.8,
+        "iso_alpha": "ZA",
+        "iso_num": "710"
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "SUDAN",
+        "Arrival": 22762,
+        "Male": 69.7,
+        "Female": 30.3,
+        "iso_alpha": "SD",
+        "iso_num": "729"
+    },
+    {
+        "Year": "2017",
+        "Continent": "AFRICA",
+        "Country": "UNITED REPUBLIC OF TANZANIA",
+        "Arrival": 22261,
+        "Male": 53.6,
+        "Female": 46.4,
+        "iso_alpha": "TZ",
+        "iso_num": "834"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "BAHRAIN",
+        "Arrival": 4516764,
+        "Male": 67.6,
+        "Female": 32.4,
+        "iso_alpha": "BH",
+        "iso_num": "048"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "IRAQ",
+        "Arrival": 56230,
+        "Male": 70.2,
+        "Female": 29.8,
+        "iso_alpha": "IQ",
+        "iso_num": "368"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "ISRAEL",
+        "Arrival": 58131,
+        "Male": 61.6,
+        "Female": 38.4,
+        "iso_alpha": "IL",
+        "iso_num": "376"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "OMAN",
+        "Arrival": 107217,
+        "Male": 62.4,
+        "Female": 37.6,
+        "iso_alpha": "OM",
+        "iso_num": "512"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "SAUDI ARABIA",
+        "Arrival": 52976,
+        "Male": 78.0,
+        "Female": 22.0,
+        "iso_alpha": "SA",
+        "iso_num": "682"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "TURKEY",
+        "Arrival": 33251,
+        "Male": 60.3,
+        "Female": 39.7,
+        "iso_alpha": "TR",
+        "iso_num": "792"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "UNITED ARAB EMIRATES",
+        "Arrival": 67238,
+        "Male": 49.5,
+        "Female": 50.5,
+        "iso_alpha": "AE",
+        "iso_num": "784"
+    },
+    {
+        "Year": "2017",
+        "Continent": "WEST ASIA",
+        "Country": "YEMEN",
+        "Arrival": 21695,
+        "Male": 72.6,
+        "Female": 27.4,
+        "iso_alpha": "YE",
+        "iso_num": "887"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "AFGHANISTAN",
+        "Arrival": 149176,
+        "Male": 69.2,
+        "Female": 30.8,
+        "iso_alpha": "AF",
+        "iso_num": "004"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "BANGLADESH",
+        "Arrival": 2156557,
+        "Male": 70.5,
+        "Female": 29.5,
+        "iso_alpha": "BD",
+        "iso_num": "050"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "BHUTAN",
+        "Arrival": 25267,
+        "Male": 56.7,
+        "Female": 43.3,
+        "iso_alpha": "BT",
+        "iso_num": "064"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "IRAN",
+        "Arrival": 42641,
+        "Male": 50.2,
+        "Female": 49.8,
+        "iso_alpha": "IR",
+        "iso_num": "364"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "MALDIVES",
+        "Arrival": 66150,
+        "Male": 52.1,
+        "Female": 47.9,
+        "iso_alpha": "MV",
+        "iso_num": "462"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "NEPAL",
+        "Arrival": 164018,
+        "Male": 67.4,
+        "Female": 32.6,
+        "iso_alpha": "NP",
+        "iso_num": "524"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "PAKISTAN",
+        "Arrival": 44266,
+        "Male": 54.6,
+        "Female": 45.4,
+        "iso_alpha": "PK",
+        "iso_num": "586"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH ASIA",
+        "Country": "SRI LANKA",
+        "Arrival": 303590,
+        "Male": 54.5,
+        "Female": 45.5,
+        "iso_alpha": "LK",
+        "iso_num": "144"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "INDONESIA",
+        "Arrival": 43973,
+        "Male": 57.7,
+        "Female": 42.3,
+        "iso_alpha": "ID",
+        "iso_num": "360"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "MALAYSIA",
+        "Arrival": 322126,
+        "Male": 52.1,
+        "Female": 47.9,
+        "iso_alpha": "MY",
+        "iso_num": "458"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "MYANMAR (BURMA)",
+        "Arrival": 56952,
+        "Male": 44.9,
+        "Female": 55.1,
+        "iso_alpha": "MM",
+        "iso_num": "104"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "PHILIPPINES",
+        "Arrival": 53963,
+        "Male": 51.0,
+        "Female": 49.0,
+        "iso_alpha": "PH",
+        "iso_num": "608"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "SINGAPORE",
+        "Arrival": 175852,
+        "Male": 57.2,
+        "Female": 42.8,
+        "iso_alpha": "SG",
+        "iso_num": "702"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "THAILAND",
+        "Arrival": 140087,
+        "Male": 42.4,
+        "Female": 57.6,
+        "iso_alpha": "TH",
+        "iso_num": "764"
+    },
+    {
+        "Year": "2017",
+        "Continent": "SOUTH EAST ASIA",
+        "Country": "VIETNAM",
+        "Arrival": 23771,
+        "Male": 45.8,
+        "Female": 54.2,
+        "iso_alpha": "VN",
+        "iso_num": "704"
+    },
+    {
+        "Year": "2017",
+        "Continent": "EAST ASIA",
+        "Country": "CHINA",
+        "Arrival": 247235,
+        "Male": 63.7,
+        "Female": 36.3,
+        "iso_alpha": "CN",
+        "iso_num": "156"
+    },
+    {
+        "Year": "2017",
+        "Continent": "EAST ASIA",
+        "Country": "JAPAN",
+        "Arrival": 222527,
+        "Male": 73.1,
+        "Female": 26.9,
+        "iso_alpha": "JP",
+        "iso_num": "392"
+    },
+    {
+        "Year": "2017",
+        "Continent": "EAST ASIA",
+        "Country": "REPUBLIC OF KOREA",
+        "Arrival": 142383,
+        "Male": 60.7,
+        "Female": 39.3,
+        "iso_alpha": "KR",
+        "iso_num": "410"
+    },
+    {
+        "Year": "2017",
+        "Continent": "EAST ASIA",
+        "Country": "TAIWAN",
+        "Arrival": 47043,
+        "Male": 50.9,
+        "Female": 49.1,
+        "iso_alpha": "TW",
+        "iso_num": "158"
+    },
+    {
+        "Year": "2017",
+        "Continent": "AUSTRALASIA",
+        "Country": "AUSTRALIA",
+        "Arrival": 324243,
+        "Male": 56.8,
+        "Female": 43.2,
+        "iso_alpha": "AU",
+        "iso_num": "036"
+    },
+    {
+        "Year": "2017",
+        "Continent": "AUSTRALASIA",
+        "Country": "NEW ZEALAND",
+        "Arrival": 56597,
+        "Male": 54.3,
+        "Female": 45.7,
+        "iso_alpha": "NZ",
+        "iso_num": "554"
+    },
+    {
+        "Year": "2016",
+        "Continent": "North America",
+        "Country": "CANADA",
+        "Arrival": 317239,
+        "Male": 53.4,
+        "Female": 46.6,
+        "iso_alpha": "CA",
+        "iso_num": "124"
+    },
+    {
+        "Year": "2016",
+        "Continent": "North America",
+        "Country": "UNITED STATES",
+        "Arrival": 1296939,
+        "Male": 55.1,
+        "Female": 44.9,
+        "iso_alpha": "US",
+        "iso_num": "840"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Central & South America",
+        "Country": "ARGENTINA",
+        "Arrival": 12308,
+        "Male": 45.7,
+        "Female": 54.3,
+        "iso_alpha": "AR",
+        "iso_num": "032"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Central & South America",
+        "Country": "BRAZIL",
+        "Arrival": 21289,
+        "Male": 54.1,
+        "Female": 45.9,
+        "iso_alpha": "BR",
+        "iso_num": "076"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Central & South America",
+        "Country": "MEXICO",
+        "Arrival": 15689,
+        "Male": 50.8,
+        "Female": 49.2,
+        "iso_alpha": "MX",
+        "iso_num": "484"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "AUSTRIA",
+        "Arrival": 33089,
+        "Male": 58.2,
+        "Female": 41.8,
+        "iso_alpha": "AT",
+        "iso_num": "040"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "BELGIUM",
+        "Arrival": 37960,
+        "Male": 61.5,
+        "Female": 38.5,
+        "iso_alpha": "BE",
+        "iso_num": "056"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "DENMARK",
+        "Arrival": 24717,
+        "Male": 58.7,
+        "Female": 41.3,
+        "iso_alpha": "DK",
+        "iso_num": "208"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "FINLAND",
+        "Arrival": 18371,
+        "Male": 54.5,
+        "Female": 45.5,
+        "iso_alpha": "FI",
+        "iso_num": "246"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "FRANCE",
+        "Arrival": 238707,
+        "Male": 54.6,
+        "Female": 45.4,
+        "iso_alpha": "FR",
+        "iso_num": "250"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "GERMANY",
+        "Arrival": 265928,
+        "Male": 59.3,
+        "Female": 40.7,
+        "iso_alpha": "DE",
+        "iso_num": "276"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "GREECE",
+        "Arrival": 9048,
+        "Male": 64.2,
+        "Female": 35.8,
+        "iso_alpha": "GR",
+        "iso_num": "300"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "IRELAND",
+        "Arrival": 36440,
+        "Male": 53.7,
+        "Female": 46.3,
+        "iso_alpha": "IE",
+        "iso_num": "372"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "ITALY",
+        "Arrival": 95417,
+        "Male": 64.3,
+        "Female": 35.7,
+        "iso_alpha": "IT",
+        "iso_num": "380"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "NETHERLANDS",
+        "Arrival": 71840,
+        "Male": 60.9,
+        "Female": 39.1,
+        "iso_alpha": "NL",
+        "iso_num": "528"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "NORWAY",
+        "Arrival": 20148,
+        "Male": 54.7,
+        "Female": 45.3,
+        "iso_alpha": "NO",
+        "iso_num": "578"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "PORTUGAL",
+        "Arrival": 54439,
+        "Male": 65.2,
+        "Female": 34.8,
+        "iso_alpha": "PT",
+        "iso_num": "620"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "SPAIN",
+        "Arrival": 76342,
+        "Male": 53.0,
+        "Female": 47.0,
+        "iso_alpha": "ES",
+        "iso_num": "724"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "SWEDEN",
+        "Arrival": 43689,
+        "Male": 55.8,
+        "Female": 44.2,
+        "iso_alpha": "SE",
+        "iso_num": "752"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "SWITZERLAND",
+        "Arrival": 48123,
+        "Male": 54.1,
+        "Female": 45.9,
+        "iso_alpha": "CH",
+        "iso_num": "756"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Western Europe",
+        "Country": "UNITED KINGDOM",
+        "Arrival": 941883,
+        "Male": 55.6,
+        "Female": 44.4,
+        "iso_alpha": "GB",
+        "iso_num": "826"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Eastern Europe",
+        "Country": "CZECH REPUBLIC",
+        "Arrival": 12932,
+        "Male": 63.2,
+        "Female": 36.8,
+        "iso_alpha": "CZ",
+        "iso_num": "203"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Eastern Europe",
+        "Country": "HUNGARY",
+        "Arrival": 7961,
+        "Male": 52.9,
+        "Female": 47.1,
+        "iso_alpha": "HU",
+        "iso_num": "348"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Eastern Europe",
+        "Country": "KAZAKHISTAN",
+        "Arrival": 12979,
+        "Male": 38.1,
+        "Female": 61.9,
+        "iso_alpha": "KZ",
+        "iso_num": "398"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Eastern Europe",
+        "Country": "POLAND",
+        "Arrival": 25706,
+        "Male": 50.5,
+        "Female": 49.5,
+        "iso_alpha": "PL",
+        "iso_num": "616"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Eastern Europe",
+        "Country": "RUSSIAN FEDERATION",
+        "Arrival": 227749,
+        "Male": 43.6,
+        "Female": 56.4,
+        "iso_alpha": "RU",
+        "iso_num": "643"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Eastern Europe",
+        "Country": "UKRAINE",
+        "Arrival": 26753,
+        "Male": 49.9,
+        "Female": 50.1,
+        "iso_alpha": "UA",
+        "iso_num": "804"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "EGYPT",
+        "Arrival": 20864,
+        "Male": 67.3,
+        "Female": 32.7,
+        "iso_alpha": "EG",
+        "iso_num": "818"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "KENYA",
+        "Arrival": 44783,
+        "Male": 56.1,
+        "Female": 43.9,
+        "iso_alpha": "KE",
+        "iso_num": "404"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "MAURITIUS",
+        "Arrival": 34280,
+        "Male": 44.9,
+        "Female": 55.1,
+        "iso_alpha": "MU",
+        "iso_num": "480"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "NIGERIA",
+        "Arrival": 17964,
+        "Male": 61.2,
+        "Female": 38.8,
+        "iso_alpha": "NG",
+        "iso_num": "566"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "SOUTH AFRICA",
+        "Arrival": 52636,
+        "Male": 54.1,
+        "Female": 45.9,
+        "iso_alpha": "ZA",
+        "iso_num": "710"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "SUDAN",
+        "Arrival": 17093,
+        "Male": 76.8,
+        "Female": 23.2,
+        "iso_alpha": "SD",
+        "iso_num": "729"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Africa",
+        "Country": "UNITED REPUBLIC OF TANZANIA",
+        "Arrival": 23026,
+        "Male": 52.3,
+        "Female": 47.7,
+        "iso_alpha": "TZ",
+        "iso_num": "834"
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "BAHRAIN",
+        "Arrival": 17382,
+        "Male": 67.1,
+        "Female": 32.9,
+        "iso_alpha": "BH",
+        "iso_num": "048"
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "IRAQ",
+        "Arrival": 48227,
+        "Male": 70.1,
+        "Female": 29.9,
+        "iso_alpha": "IQ",
+        "iso_num": "368"
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "ISRAEL",
+        "Arrival": 59231,
+        "Male": 61.2,
+        "Female": 38.8,
+        "iso_alpha": "IL",
+        "iso_num": "376"
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "OMAN",
+        "Arrival": 105705,
+        "Male": 62.8,
+        "Female": 37.2,
+        "iso_alpha": "OM",
+        "iso_num": "512"
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "SAUDI ARABIA",
+        "Arrival": 61605,
+        "Male": 75.3,
+        "Female": 24.7,
+        "iso_alpha": "SA",
+        "iso_num": "682"
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "TURKEY",
+        "Arrival": 29545,
+        "Male": 59.5,
+        "Female": 40.5,
+        "iso_alpha": "TR",
+        "iso_num": "792"
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "UNITED ARAB EMIRATES",
+        "Arrival": 67165,
+        "Male": 48.6,
+        "Female": 51.4,
+        "iso_alpha": "AE",
+        "iso_num": "784"
+    },
+    {
+        "Year": "2016",
+        "Continent": "West Asia",
+        "Country": "YEMEN",
+        "Arrival": 19383,
+        "Male": 76.5,
+        "Female": 23.5,
+        "iso_alpha": "YE",
+        "iso_num": "887"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "AFGHANISTAN",
+        "Arrival": 123330,
+        "Male": 70.9,
+        "Female": 29.1,
+        "iso_alpha": "AF",
+        "iso_num": "004"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "BANGLADESH",
+        "Arrival": 1380409,
+        "Male": 71.9,
+        "Female": 28.1,
+        "iso_alpha": "BD",
+        "iso_num": "050"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "BHUTAN",
+        "Arrival": 20940,
+        "Male": 58.9,
+        "Female": 41.1,
+        "iso_alpha": "BT",
+        "iso_num": "064"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "IRAN",
+        "Arrival": 39184,
+        "Male": 51.6,
+        "Female": 48.4,
+        "iso_alpha": "IR",
+        "iso_num": "364"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "MALDIVES",
+        "Arrival": 67457,
+        "Male": 52.4,
+        "Female": 47.6,
+        "iso_alpha": "MV",
+        "iso_num": "462"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "NEPAL",
+        "Arrival": 161097,
+        "Male": 67.3,
+        "Female": 32.7,
+        "iso_alpha": "NP",
+        "iso_num": "524"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "PAKISTAN",
+        "Arrival": 104720,
+        "Male": 76.8,
+        "Female": 23.2,
+        "iso_alpha": "PK",
+        "iso_num": "586"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South Asia",
+        "Country": "SRI LANKA",
+        "Arrival": 297418,
+        "Male": 56.4,
+        "Female": 43.6,
+        "iso_alpha": "LK",
+        "iso_num": "144"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "INDONESIA",
+        "Arrival": 35084,
+        "Male": 60.9,
+        "Female": 39.1,
+        "iso_alpha": "ID",
+        "iso_num": "360"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "MALAYSIA",
+        "Arrival": 301961,
+        "Male": 52.6,
+        "Female": 47.4,
+        "iso_alpha": "MY",
+        "iso_num": "458"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "MYANMAR (BURMA)",
+        "Arrival": 51376,
+        "Male": 46.5,
+        "Female": 53.5,
+        "iso_alpha": "MM",
+        "iso_num": "104"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "PHILIPPINES",
+        "Arrival": 52692,
+        "Male": 53.5,
+        "Female": 46.5,
+        "iso_alpha": "PH",
+        "iso_num": "608"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "SINGAPORE",
+        "Arrival": 163688,
+        "Male": 58.0,
+        "Female": 42.0,
+        "iso_alpha": "SG",
+        "iso_num": "702"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "THAILAND",
+        "Arrival": 119663,
+        "Male": 43.4,
+        "Female": 56.6,
+        "iso_alpha": "TH",
+        "iso_num": "764"
+    },
+    {
+        "Year": "2016",
+        "Continent": "South East Asia",
+        "Country": "VIETNAM",
+        "Arrival": 16728,
+        "Male": 51.5,
+        "Female": 48.5,
+        "iso_alpha": "VN",
+        "iso_num": "704"
+    },
+    {
+        "Year": "2016",
+        "Continent": "East Asia",
+        "Country": "CHINA",
+        "Arrival": 251313,
+        "Male": 62.9,
+        "Female": 37.1,
+        "iso_alpha": "CN",
+        "iso_num": "156"
+    },
+    {
+        "Year": "2016",
+        "Continent": "East Asia",
+        "Country": "JAPAN",
+        "Arrival": 208847,
+        "Male": 73.6,
+        "Female": 26.4,
+        "iso_alpha": "JP",
+        "iso_num": "392"
+    },
+    {
+        "Year": "2016",
+        "Continent": "East Asia",
+        "Country": "REPUBLIC OF KOREA",
+        "Arrival": 111076,
+        "Male": 64.3,
+        "Female": 35.7,
+        "iso_alpha": "KR",
+        "iso_num": "410"
+    },
+    {
+        "Year": "2016",
+        "Continent": "East Asia",
+        "Country": "TAIWAN",
+        "Arrival": 42327,
+        "Male": 51.4,
+        "Female": 48.6,
+        "iso_alpha": "TW",
+        "iso_num": "158"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Australasia",
+        "Country": "AUSTRALIA",
+        "Arrival": 293625,
+        "Male": 57.2,
+        "Female": 42.8,
+        "iso_alpha": "AU",
+        "iso_num": "036"
+    },
+    {
+        "Year": "2016",
+        "Continent": "Australasia",
+        "Country": "NEW ZEALAND",
+        "Arrival": 50917,
+        "Male": 55.2,
+        "Female": 44.8,
+        "iso_alpha": "NZ",
+        "iso_num": "554"
+    }
+]

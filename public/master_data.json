@@ -1,0 +1,359 @@
+[
+    {
+        "year": 2001,
+        "data": [
+            {
+                "category": "Air",
+                "value": 87.1
+            },
+            {
+                "category": "Sea",
+                "value": 0.9
+            },
+            {
+                "category": "Land",
+                "value": 12.0
+            }
+        ]
+    },
+    {
+        "year": 2002,
+        "data": [
+            {
+                "category": "Air",
+                "value": 81.9
+            },
+            {
+                "category": "Sea",
+                "value": 0.6
+            },
+            {
+                "category": "Land",
+                "value": 17.5
+            }
+        ]
+    },
+    {
+        "year": 2003,
+        "data": [
+            {
+                "category": "Air",
+                "value": 83.1
+            },
+            {
+                "category": "Sea",
+                "value": 0.5
+            },
+            {
+                "category": "Land",
+                "value": 16.4
+            }
+        ]
+    },
+    {
+        "year": 2004,
+        "data": [
+            {
+                "category": "Air",
+                "value": 85.6
+            },
+            {
+                "category": "Sea",
+                "value": 0.5
+            },
+            {
+                "category": "Land",
+                "value": 13.9
+            }
+        ]
+    },
+    {
+        "year": 2005,
+        "data": [
+            {
+                "category": "Air",
+                "value": 86.5
+            },
+            {
+                "category": "Sea",
+                "value": 0.4
+            },
+            {
+                "category": "Land",
+                "value": 13.1
+            }
+        ]
+    },
+    {
+        "year": 2006,
+        "data": [
+            {
+                "category": "Air",
+                "value": 87.1
+            },
+            {
+                "category": "Sea",
+                "value": 0.6
+            },
+            {
+                "category": "Land",
+                "value": 12.3
+            }
+        ]
+    },
+    {
+        "year": 2007,
+        "data": [
+            {
+                "category": "Air",
+                "value": 88.4
+            },
+            {
+                "category": "Sea",
+                "value": 0.6
+            },
+            {
+                "category": "Land",
+                "value": 11.0
+            }
+        ]
+    },
+    {
+        "year": 2008,
+        "data": [
+            {
+                "category": "Air",
+                "value": 89.1
+            },
+            {
+                "category": "Sea",
+                "value": 0.7
+            },
+            {
+                "category": "Land",
+                "value": 10.2
+            }
+        ]
+    },
+    {
+        "year": 2009,
+        "data": [
+            {
+                "category": "Air",
+                "value": 89.8
+            },
+            {
+                "category": "Sea",
+                "value": 1.0
+            },
+            {
+                "category": "Land",
+                "value": 9.2
+            }
+        ]
+    },
+    {
+        "year": 2010,
+        "data": [
+            {
+                "category": "Air",
+                "value": 91.8
+            },
+            {
+                "category": "Sea",
+                "value": 0.7
+            },
+            {
+                "category": "Land",
+                "value": 7.5
+            }
+        ]
+    },
+    {
+        "year": 2011,
+        "data": [
+            {
+                "category": "Air",
+                "value": 92.0
+            },
+            {
+                "category": "Sea",
+                "value": 0.8
+            },
+            {
+                "category": "Land",
+                "value": 7.2
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "data": [
+            {
+                "category": "Air",
+                "value": 91.7
+            },
+            {
+                "category": "Sea",
+                "value": 0.7
+            },
+            {
+                "category": "Land",
+                "value": 7.6
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "data": [
+            {
+                "category": "Air",
+                "value": 91.0
+            },
+            {
+                "category": "Sea",
+                "value": 0.5
+            },
+            {
+                "category": "Land",
+                "value": 8.5
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "data": [
+            {
+                "category": "Air",
+                "value": 86.1
+            },
+            {
+                "category": "Sea",
+                "value": 0.4
+            },
+            {
+                "category": "Land",
+                "value": 13.5
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "data": [
+            {
+                "category": "Air",
+                "value": 84.5
+            },
+            {
+                "category": "Sea",
+                "value": 0.7
+            },
+            {
+                "category": "Land",
+                "value": 14.8
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "data": [
+            {
+                "category": "Air",
+                "value": 84.1
+            },
+            {
+                "category": "Sea",
+                "value": 0.9
+            },
+            {
+                "category": "Land",
+                "value": 15.0
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "data": [
+            {
+                "category": "Air",
+                "value": 79.6
+            },
+            {
+                "category": "Sea",
+                "value": 0.7
+            },
+            {
+                "category": "Land",
+                "value": 19.7
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "data": [
+            {
+                "category": "Air",
+                "value": 79.6
+            },
+            {
+                "category": "Sea",
+                "value": 0.8
+            },
+            {
+                "category": "Land",
+                "value": 19.6
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "data": [
+            {
+                "category": "Air",
+                "value": 77.4
+            },
+            {
+                "category": "Sea",
+                "value": 0.9
+            },
+            {
+                "category": "Land",
+                "value": 21.7
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "data": [
+            {
+                "category": "Air",
+                "value": 79.2
+            },
+            {
+                "category": "Sea",
+                "value": 1.5
+            },
+            {
+                "category": "Land",
+                "value": 19.3
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "data": [
+            {
+                "category": "Air",
+                "value": 87.5
+            },
+            {
+                "category": "Sea",
+                "value": 0.7
+            },
+            {
+                "category": "Land",
+                "value": 11.8
+            }
+        ]
+    }
+]

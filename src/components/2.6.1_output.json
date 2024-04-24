@@ -1,0 +1,107 @@
+{
+    "2001": {
+        "Male": 41.1,
+        "Female": 24.5,
+        "Not Reported": 34.4
+    },
+    "2002": {
+        "Male": 50.2,
+        "Female": 27.5,
+        "Not Reported": 22.3
+    },
+    "2003": {
+        "Male": 55.7,
+        "Female": 32.1,
+        "Not Reported": 12.2
+    },
+    "2004": {
+        "Male": 54.9,
+        "Female": 33.9,
+        "Not Reported": 11.2
+    },
+    "2005": {
+        "Male": 52.5,
+        "Female": 33.1,
+        "Not Reported": 14.4
+    },
+    "2006": {
+        "Male": 57.1,
+        "Female": 36.2,
+        "Not Reported": 6.7
+    },
+    "2007": {
+        "Male": 59.9,
+        "Female": 39.6,
+        "Not Reported": 0.5
+    },
+    "2008": {
+        "Male": 60.5,
+        "Female": 39.4,
+        "Not Reported": 0.1
+    },
+    "2009": {
+        "Male": 59.6,
+        "Female": 40.4,
+        "Not Reported": 0
+    },
+    "2010": {
+        "Male": 59.3,
+        "Female": 40.7,
+        "Not Reported": 0
+    },
+    "2011": {
+        "Male": 59.4,
+        "Female": 40.6,
+        "Not Reported": 0
+    },
+    "2012": {
+        "Male": 58.7,
+        "Female": 41.3,
+        "Not Reported": 0
+    },
+    "2013": {
+        "Male": 58.8,
+        "Female": 41.2,
+        "Not Reported": 0
+    },
+    "2014": {
+        "Male": 59.0,
+        "Female": 41.0,
+        "Not Reported": 0
+    },
+    "2015": {
+        "Male": 59.3,
+        "Female": 40.7,
+        "Not Reported": 0
+    },
+    "2016": {
+        "Male": 59.4,
+        "Female": 40.6,
+        "Not Reported": 0
+    },
+    "2017": {
+        "Male": 59.4,
+        "Female": 40.5,
+        "Not Reported": 0.01
+    },
+    "2018": {
+        "Male": 58.6,
+        "Female": 41.4,
+        "Not Reported": 0.01
+    },
+    "2019": {
+        "Male": 58.9,
+        "Female": 41.1,
+        "Not Reported": 0
+    },
+    "2020": {
+        "Male": 57.8,
+        "Female": 42.2,
+        "Not Reported": 0
+    },
+    "2021": {
+        "Male": 59.7,
+        "Female": 40.3,
+        "Not Reported": 0
+    }
+}

@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import ReactDOM from 'react-dom';
+import AnimatedWorldMap from './components/AnimatedWorldMap';
+import AnimatedPieChart from './components/AnimatedPieChart';
+import StackedBarChart from './components/StackedBarChart';
+import LineChartComponent from './components/LineChartComponent';
+import GroupedBarChart from './components/GroupedBarChart';
+import StockChart from './components/StockChart';
+import ReturnsDistributionChart from './components/ReturnsDistributionChart';
+import IndiaChoroplethMap from './components/IndiaChoroplethMap';
+import YearlyBarChart from './components/YearlyBarChart';
+import BarGraphComponent from './components/BarGraphComponent';
+import data261 from './components/2.6.1_output.json';
+import data271 from './components/2.7.1_output.json';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ backgroundColor: 'white', padding: '20px' }}>
+      <StockChart/>
     </div>
   );
-}
+};
 
-export default App;
+export default App; // Ensure this line is correctly placed and there are no syntax errors around it
+
+ReactDOM.render(<App />, document.getElementById('root'));
+
